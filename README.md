@@ -17,6 +17,7 @@ to_twos_complement -represents signed integers in two complement with 32-bit len
 gcc-o convert convert.c main.c
 or, in Visual Studio: open the solution and press Ctrl+Shift+B
 Run
+./convert
 ‘‘‘
 # Test
 51/51 tests passed
