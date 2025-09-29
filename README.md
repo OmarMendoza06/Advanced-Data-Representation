@@ -13,11 +13,11 @@ to_ones_complement - represents signed integers in one's complement with 32-bit 
 to_twos_complement -represents signed integers in two complement with 32-bit length output
 
 # Build Instructions
-'''bash
+```bash
 gcc-o convert convert.c main.c
 or, in Visual Studio: open the solution and press Ctrl+Shift+B
 Run
 ./convert
-'''
+```
 # Test
 51/51 tests passed
